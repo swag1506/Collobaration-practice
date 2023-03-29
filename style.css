@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -35,17 +34,3 @@ button{
     background-color: greenyellow;
     border: none;
     font-size: 25px;}
-=======
-*{
-    margin: 0;
-    padding: 0;
-}
-.sayt{
-    max-width: 1920px;
-    width: 100%;
-    height: auto;
-    padding: 0 50px;
->>>>>>> 59fccf72e2b72a9d7c4b1bb831d5483b1d4e9014
-order: none;
-    font-size: 25px;
-}
