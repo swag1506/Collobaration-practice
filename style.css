@@ -1,15 +1,9 @@
 <<<<<<< HEAD
-/* *{
+*{
     margin: 0;
     padding: 0;
 }
-.sayt{
-    max-width: 1920px;
-    width: 100%;
-    height: auto;
-    padding: 0 50px;
-    background-color: aqua;
-} */
+
 .header{
     display: flex;
     flex-direction: row;
@@ -54,11 +48,7 @@
     color: white;
     font-family: cursive;
 }
-=======
-*{
-    margin: 0;
-    padding: 0;
-}
+
 .sayt{
     max-width: 1920px;
     width: 100%;
