@@ -1,7 +1,54 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
 }
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  
+    border: 0px solid black;
+    
+
+}
+.navbar
+{
+    width: 60%;
+    /* height: 100%; */
+    
+}
+.navbar ul
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+}
+.navbar ul li{
+   list-style: none;
+    /* height: 20%; */
+}
+.navbar ul li a{
+    /* margin: auto; */
+    color: white;
+    text-decoration: none;
+    font-family: cursive;
+    
+}
+.header h2
+{
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+}
+
 .sayt{
     max-width: 1920px;
     width: 100%;
@@ -34,3 +81,4 @@ button{
     background-color: greenyellow;
     border: none;
     font-size: 25px;}
+>>>>>>> 5e90a547fe0c52efe3b96034061d15b36ee1163d
